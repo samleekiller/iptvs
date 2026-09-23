@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "sources": [
+    {
+      "name": "默认EPG",
+      "url": "https://e.erw.cc/all.xml.gz",
+      "enabled": true,
+      "format": "auto",
+      "refreshInterval": 720,
+      "priority": 10
+    }
+  ]
+}
